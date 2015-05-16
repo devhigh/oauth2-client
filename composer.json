@@ -1,5 +1,5 @@
 {
-    "name": "oauth2-client",
+    "name": "nine2five/oauth2-client",
     "description": "OAuth 2.0 Client Library",
     "license": "MIT",
     "require": {
@@ -39,11 +39,6 @@
     "autoload-dev": {
         "psr-4": {
             "League\\OAuth2\\Client\\Test\\": "test/src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.10.x-dev"
         }
     }
 }
