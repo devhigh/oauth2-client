@@ -1,5 +1,5 @@
 {
-    "name": "nine2five/oauth2-client",
+    "name": "oauth2-client",
     "description": "OAuth 2.0 Client Library",
     "license": "MIT",
     "require": {
